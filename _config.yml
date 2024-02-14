@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guixian Zhang"
-description              : "Welcome to my personal homepage."
+description              : "PhD candidate."
 repository               : "shawn-dm/guixian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guixian Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "China University of Mining and Technology"
   location         : "Xuzhou, China"
   employer         :
   pubmed           : 
