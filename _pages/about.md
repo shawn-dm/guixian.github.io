@@ -47,6 +47,9 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, **Data Science
 - *2020.09 - 2023.06*, Guangxi Normal University. 
 - *2015.09 - 2019.06*, North China Institute of Aerospace Engineering. 
 
+# 💬 Serives
+
+- I serve as a PC or reviewer for conferences and journals such as KDD, AAAI, ACM MM, TKDD, DASFAA, PAKDD, Neurocomputing, and others.
 
 # 💻 Internships
 - *I'm looking for a summer research internship.* 
