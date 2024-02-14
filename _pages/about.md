@@ -16,9 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a first year PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=heE6vKAAAAAJ&view_op=list_works). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, Recommendation，MultiModal Learning and LLM. I have published more than 12 papers with total <a href='https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 📝 Publications 
@@ -27,12 +25,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Learning fair representations via rebalancing graph structure](https://www.sciencedirect.com/science/article/pii/S0306457323003072), **Guixian Zhang**, Debo Cheng, Guan Yuan, Shichao Zhang, **Information Processing and Management, 2024**
 
-- [FPGNN: Fair path graph neural network for mitigating discrimination](https://link.springer.com/article/10.1007/s11280-023-01178-8), **Guixian Zhang**, Debo Cheng, Shichao Zhang, **World Wide Web 2023**
-
-- [Nonlocal Hybrid Network for Long-tailed Image Classification](https://dl.acm.org/doi/abs/10.1145/3630256), Rongjiao Liang, Shichao Zhang, Wenzhen Zhang, **Guixian Zhang**, Jinyun Tang, **ACM Transactions on Multimedia Computing, Communications and Applications, 2023**
+- [Nonlocal Hybrid Network for Long-tailed Image Classification](https://dl.acm.org/doi/abs/10.1145/3630256), Rongjiao Liang, Shichao Zhang, Wenzhen Zhang, **Guixian Zhang**, Jinyun Tang, **ACM Transactions on Multimedia Computing, Communications and Applications, 2024**
+  
+- [FPGNN: Fair path graph neural network for mitigating discrimination](https://link.springer.com/article/10.1007/s11280-023-01178-8), **Guixian Zhang**, Debo Cheng, Shichao Zhang, **World Wide Web, 2023**
 
 - [A Multi-level Mesh Mutual Attention Model for Visual Question Answering](https://link.springer.com/article/10.1007/s41019-022-00200-9), 
 Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, **Data Science and Engineering, 2022**
+
+- [Rumour detection on social media with long-tail strategy](https://ieeexplore.ieee.org/abstract/document/9892019), 
+**Guixian Zhang**, Rongjiao Liang, Zhongyi Yu, Shichao Zhang, **IJCNN, 2022**
+
+- [Aggregation Enhanced Graph Convolutional Network for Graph Classification](https://ieeexplore.ieee.org/abstract/document/9667673), 
+**Guixian Zhang**, Boyan Chen, Lijuan Wu, Kui Zhang, Shichao Zhang, **ICBK, 2021**
 
 - [More publications at Google Scholar!](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl)
 
@@ -43,13 +47,14 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, **Data Science
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.09 - 2027.06 (now)*, China University of Mining and Technology.
-- *2020.09 - 2023.06*, Guangxi Normal University. 
-- *2015.09 - 2019.06*, North China Institute of Aerospace Engineering. 
+- *2023.09 - 2027.06 (now)*, China University of Mining and Technology, Ph.D.
+- *2020.09 - 2023.06*, Guangxi Normal University, M.S. 
+- *2015.09 - 2019.06*, North China Institute of Aerospace Engineering, B.S. 
 
 # 💬 Serives
 
-- I serve as a PC or reviewer for conferences and journals such as KDD, AAAI, ACM MM, TKDD, DASFAA, PAKDD, Neurocomputing, and others.
+- Serving as a PC or reviewer for conferences and journals such as KDD, AAAI, ACM MM, TKDD, DASFAA, PAKDD, Neurocomputing, and others.
+- Hosting the Innovation Project of Guangxi Graduate Education in 2022: *Rumour detection based on knowledge graph and contrastive learning*.
 
 # 💻 Internships
 - *I'm looking for a summer research internship.* 
