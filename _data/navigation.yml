@@ -13,7 +13,7 @@ main:
     url: "/#-educations"
 
   - title: "Services"
-    url: "/#-services"
+    url: "/#-educations"
 
   - title: "Internships"
     url: "/#-internships"
