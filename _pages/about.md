@@ -23,23 +23,30 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-- [Bayesian Graph Local Extrema Convolution with Long-Tail Strategy for Misinformation Detection](https://dl.acm.org/doi/full/10.1145/3639408), Guixian Zhang, Shichao Zhang, Guan Yuan, **ACM Transactions on Knowledge Discovery from Data**
+- [Bayesian Graph Local Extrema Convolution with Long-Tail Strategy for Misinformation Detection](https://dl.acm.org/doi/full/10.1145/3639408), **Guixian Zhang**, Shichao Zhang, Guan Yuan, **ACM Transactions on Knowledge Discovery from Data, 2024**
 
-- [Learning fair representations via rebalancing graph structure](https://www.sciencedirect.com/science/article/pii/S0306457323003072), Guixian Zhang, Debo Cheng, Guan Yuan, Shichao Zhang, **Information Processing and Management**
+- [Learning fair representations via rebalancing graph structure](https://www.sciencedirect.com/science/article/pii/S0306457323003072), **Guixian Zhang**, Debo Cheng, Guan Yuan, Shichao Zhang, **Information Processing and Management, 2024**
 
-- [FPGNN: Fair path graph neural network for mitigating discrimination](https://link.springer.com/article/10.1007/s11280-023-01178-8), Guixian Zhang, Debo Cheng, Shichao Zhang, **World Wide Web**
+- [FPGNN: Fair path graph neural network for mitigating discrimination](https://link.springer.com/article/10.1007/s11280-023-01178-8), **Guixian Zhang**, Debo Cheng, Shichao Zhang, **World Wide Web 2023**
 
-- [Nonlocal Hybrid Network for Long-tailed Image Classification](https://dl.acm.org/doi/abs/10.1145/3630256), Rongjiao Liang, Shichao Zhang, Wenzhen Zhang, Guixian Zhang, Jinyun Tang, **ACM Transactions on Multimedia Computing, Communications and Applications**
+- [Nonlocal Hybrid Network for Long-tailed Image Classification](https://dl.acm.org/doi/abs/10.1145/3630256), Rongjiao Liang, Shichao Zhang, Wenzhen Zhang, **Guixian Zhang**, Jinyun Tang, **ACM Transactions on Multimedia Computing, Communications and Applications, 2023**
 
+- [A Multi-level Mesh Mutual Attention Model for Visual Question Answering](https://link.springer.com/article/10.1007/s41019-022-00200-9), 
+Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, **Data Science and Engineering, 2022**
+
+- [More publications at Google Scholar!](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl)
+
+  
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2027.06 (now)*, China University of Mining and Technology.
+- *2020.09 - 2023.06*, Guangxi Normal University. 
+- *2015.09 - 2019.06*, North China Institute of Aerospace Engineering. 
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *I'm looking for a summer research internship.* 
