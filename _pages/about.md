@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first year PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=heE6vKAAAAAJ&view_op=list_works). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, Recommendation，MultiModal Learning and LLM. I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a first year PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=heE6vKAAAAAJ&view_op=list_works). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, Recommendation，MultiModal Learning and LLM. I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>. Meanwhile, I'm extra focused on AI applications in social networks and physics.
 
 
 # 📝 Publications 
@@ -43,8 +43,10 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, **Data Science
   
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Outstanding Graduates in GXNU.
+- *2022* Postgraduate Excellence Award in GXNU. 
+- *2021* Third Prize of the 18th National Post-Graduate Mathematical Contest in Modeling (Huawei Cup). 
+- *2021* Merit Student of GXNU. 
 
 # 📖 Educations
 - *2023.09 - 2027.06 (now)*, China University of Mining and Technology, Ph.D.
