@@ -21,22 +21,22 @@ Hi, I'm **Guixian Zhang** (张桂衔), currently a first year PhD candidate in A
 
 # 📝 Publications 
 
-- [Bayesian Graph Local Extrema Convolution with Long-Tail Strategy for Misinformation Detection](https://dl.acm.org/doi/full/10.1145/3639408), **Guixian Zhang**, Shichao Zhang, Guan Yuan, **ACM Transactions on Knowledge Discovery from Data, 2024**
+- [Bayesian Graph Local Extrema Convolution with Long-Tail Strategy for Misinformation Detection](https://dl.acm.org/doi/full/10.1145/3639408), **Guixian Zhang**, Shichao Zhang, Guan Yuan, *ACM Transactions on Knowledge Discovery from Data, 2024*
 
-- [Learning fair representations via rebalancing graph structure](https://www.sciencedirect.com/science/article/pii/S0306457323003072), **Guixian Zhang**, Debo Cheng, Guan Yuan, Shichao Zhang, **Information Processing and Management, 2024**
+- [Learning fair representations via rebalancing graph structure](https://www.sciencedirect.com/science/article/pii/S0306457323003072), **Guixian Zhang**, Debo Cheng, Guan Yuan, Shichao Zhang, *Information Processing and Management, 2024*
 
-- [Nonlocal Hybrid Network for Long-tailed Image Classification](https://dl.acm.org/doi/abs/10.1145/3630256), Rongjiao Liang, Shichao Zhang, Wenzhen Zhang, **Guixian Zhang**, Jinyun Tang, **ACM Transactions on Multimedia Computing, Communications and Applications, 2024**
+- [Nonlocal Hybrid Network for Long-tailed Image Classification](https://dl.acm.org/doi/abs/10.1145/3630256), Rongjiao Liang, Shichao Zhang, Wenzhen Zhang, **Guixian Zhang**, Jinyun Tang, *ACM Transactions on Multimedia Computing, Communications and Applications, 2024*
   
-- [FPGNN: Fair path graph neural network for mitigating discrimination](https://link.springer.com/article/10.1007/s11280-023-01178-8), **Guixian Zhang**, Debo Cheng, Shichao Zhang, **World Wide Web, 2023**
+- [FPGNN: Fair path graph neural network for mitigating discrimination](https://link.springer.com/article/10.1007/s11280-023-01178-8), **Guixian Zhang**, Debo Cheng, Shichao Zhang, *World Wide Web, 2023*
 
 - [A Multi-level Mesh Mutual Attention Model for Visual Question Answering](https://link.springer.com/article/10.1007/s41019-022-00200-9), 
-Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, **Data Science and Engineering, 2022**
+Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science and Engineering, 2022*
 
 - [Rumour detection on social media with long-tail strategy](https://ieeexplore.ieee.org/abstract/document/9892019), 
-**Guixian Zhang**, Rongjiao Liang, Zhongyi Yu, Shichao Zhang, **IJCNN, 2022**
+**Guixian Zhang**, Rongjiao Liang, Zhongyi Yu, Shichao Zhang, *IJCNN, 2022*
 
 - [Aggregation Enhanced Graph Convolutional Network for Graph Classification](https://ieeexplore.ieee.org/abstract/document/9667673), 
-**Guixian Zhang**, Boyan Chen, Lijuan Wu, Kui Zhang, Shichao Zhang, **ICBK, 2021**
+**Guixian Zhang**, Boyan Chen, Lijuan Wu, Kui Zhang, Shichao Zhang, *ICBK, 2021*
 
 - [More publications at Google Scholar!](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl)
 
