@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Guixian Zhang** (张桂衔), currently a first year PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com/citations?hl&user=heE6vKAAAAAJ&view_op=list_works). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, Recommendation, Multi-modal Learning and LLM. I have published 10+ papers with total [20+ google scholar citations](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl). Meanwhile, I'm extra focused on AI applications in social networks and physics. I am also hobbyist in photography, cookery and football.
+Hi, I'm **Guixian Zhang**, currently a first year PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com/citations?hl&user=heE6vKAAAAAJ&view_op=list_works). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, Recommendation, Multi-modal Learning and LLM. I have published 10+ papers with total [20+ google scholar citations](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl). Meanwhile, I'm extra focused on AI applications in social networks and physics. I am also hobbyist in photography, cookery and football.
 
 
 # 📝 Publications 
@@ -55,8 +55,9 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science 
 
 # 💬 Serives
 
-- Serving as a PC or reviewer for conferences and journals such as KDD, AAAI, ACM MM, TKDD, DASFAA, PAKDD, Neurocomputing, and others.
-- Hosting the Innovation Project of Guangxi Graduate Education in 2022: *Rumour detection based on knowledge graph and contrastive learning*.
+- Serving as a PC or reviewer for conferences and journals such as KDD, AAAI, ACM MM, DASFAA, PAKDD, TKDD, and others.
+- Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province, the Fundamental Research Funds for the Central Universities: *Research on causal debiasing algorithm for recommender system based on graph learning*.
+- Hosting the Innovation Project of Guangxi Graduate Education: *Rumour detection based on knowledge graph and contrastive learning*.
 
 # 💻 Internships
-- *I'm looking for a summer research internship.* 
+- *I'm looking for a research internship.* 
