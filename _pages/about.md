@@ -55,7 +55,7 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science 
 
 # 💬 Serives
 
-- Serving as a PC or reviewer for conferences and journals:  NeurlPS, KDD, AAAI, MM, DASFAA, PAKDD, ACML, AI, TKDD, KAIS, Neurocomputing, TJSC, NCAA, and others.
+- Serving as a PC or reviewer for conferences and journals:  ICLR, NeurlPS, KDD, AAAI, MM, DASFAA, PAKDD, ACML, AI, TKDD, KAIS, Neurocomputing, and others.
 - Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province, the Fundamental Research Funds for the Central Universities: *Research on causal debiasing algorithm for recommender system based on graph learning*.
 - Hosting the Innovation Project of Guangxi Graduate Education: *Rumour detection based on knowledge graph and contrastive learning*.
 
