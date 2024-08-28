@@ -43,6 +43,7 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science 
   
 
 # 🎖 Honors and Awards
+- *2024* Best Paper Award in 21th International Conference on Web Information Systems and Applications.
 - *2023* Honor Graduate in GXNU.
 - *2022* Postgraduate Excellence Award in GXNU. 
 - *2021* Third Prize of the 18th National Post-Graduate Mathematical Contest in Modeling (Huawei Cup). 
