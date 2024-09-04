@@ -16,11 +16,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Guixian Zhang**, currently a first year PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com/citations?hl&user=heE6vKAAAAAJ&view_op=list_works). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, Recommendation, Multi-modal Learning and LLM. I have published 10+ papers with total [50+ google scholar citations](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl). Meanwhile, I'm extra focused on AI applications in social networks, physics and biomedicine. I am also hobbyist in photography, cookery and football.
+Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com/citations?hl&user=heE6vKAAAAAJ&view_op=list_works). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, and AI4S. I have published 10+ papers with total [60+ google scholar citations](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl). Meanwhile, I'm extra focused on AI applications in social networks, physics and biomedicine. I am also hobbyist in photography, cookery and football.
 
 
 # 📝 Publications 
 
+- [Multi-view Graph Neural Network for Fair Representation Learning](https://link.springer.com/chapter/10.1007/978-981-97-7238-4_14), **Guixian Zhang**, , Guan Yuan, Debo Cheng, Ludan He, Rui Bing, Jiuyong Li, Shichao Zhang, *APWeb, 2024*
+- 
 - [Bayesian Graph Local Extrema Convolution with Long-Tail Strategy for Misinformation Detection](https://dl.acm.org/doi/full/10.1145/3639408), **Guixian Zhang**, Shichao Zhang, Guan Yuan, *ACM Transactions on Knowledge Discovery from Data, 2024*
 
 - [Learning fair representations via rebalancing graph structure](https://www.sciencedirect.com/science/article/pii/S0306457323003072), **Guixian Zhang**, Debo Cheng, Guan Yuan, Shichao Zhang, *Information Processing and Management, 2024*
