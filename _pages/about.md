@@ -21,7 +21,7 @@ Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial I
 
 # 📝 Publications 
 
-- [Multi-view Graph Neural Network for Fair Representation Learning](https://link.springer.com/chapter/10.1007/978-981-97-7238-4_14), **Guixian Zhang**, , Guan Yuan, Debo Cheng, Ludan He, Rui Bing, Jiuyong Li, Shichao Zhang, *APWeb, 2024*
+- [Multi-view Graph Neural Network for Fair Representation Learning](https://link.springer.com/chapter/10.1007/978-981-97-7238-4_14), **Guixian Zhang**, Guan Yuan, Debo Cheng, Ludan He, Rui Bing, Jiuyong Li, Shichao Zhang, *APWeb, 2024*
 - 
 - [Bayesian Graph Local Extrema Convolution with Long-Tail Strategy for Misinformation Detection](https://dl.acm.org/doi/full/10.1145/3639408), **Guixian Zhang**, Shichao Zhang, Guan Yuan, *ACM Transactions on Knowledge Discovery from Data, 2024*
 
