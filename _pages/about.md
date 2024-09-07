@@ -49,18 +49,18 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science 
 - *2023* Honor Graduate in GXNU.
 - *2022* Postgraduate Excellence Award in GXNU. 
 - *2021* Third Prize of the 18th National Post-Graduate Mathematical Contest in Modeling (Huawei Cup). 
-- *2021* Merit Student of GXNU. 
+- *2021* Merit Student of GXNU.
+  
+# 💬 Serives
+- Serving as a PC or reviewer for conferences and journals:  ICLR, NeurlPS, KDD, AAAI, MM, DASFAA, PAKDD, ACML, AI, TKDD, KAIS, WWW, Neurocomputing, TJSC, MS, and others.
+- Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province, the Fundamental Research Funds for the Central Universities: *Research on causal debiasing algorithm for recommender system based on graph learning*.
+- Hosting the Innovation Project of Guangxi Graduate Education: *Rumour detection based on knowledge graph and contrastive learning*.
+
 
 # 📖 Educations
 - *2023.09 - 2027.06 (now)*, China University of Mining and Technology, Ph.D.
 - *2020.09 - 2023.06*, Guangxi Normal University, M.S. 
 - *2015.09 - 2019.06*, North China Institute of Aerospace Engineering, B.S. 
-
-# 💬 Serives
-
-- Serving as a PC or reviewer for conferences and journals:  ICLR, NeurlPS, KDD, AAAI, MM, DASFAA, PAKDD, ACML, AI, TKDD, KAIS, WWW, Neurocomputing, TJSC, MS, and others.
-- Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province, the Fundamental Research Funds for the Central Universities: *Research on causal debiasing algorithm for recommender system based on graph learning*.
-- Hosting the Innovation Project of Guangxi Graduate Education: *Rumour detection based on knowledge graph and contrastive learning*.
 
 # 💻 Internships
 - *I'm looking for a research internship.* 
