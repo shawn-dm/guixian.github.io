@@ -52,7 +52,7 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science 
 - *2021* Merit Student of GXNU.
   
 # 💬 Serives
-- Serving as a PC or reviewer for conferences:  ICLR, NeurlPS, KDD, AAAI, MM, ICWSM, DASFAA, PAKDD, ACML.
+- Serving as a PC or reviewer for conferences:  ICLR, NeurlPS, AISTATS, KDD, AAAI, MM, ICWSM, DASFAA, PAKDD, ACML.
 - Serving as a reviewer for journals: AI, TKDD, KAIS, WWW, Neurocomputing, KBS, TJSC, MS, and others.
 - Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province, the Fundamental Research Funds for the Central Universities: *Research on causal debiasing algorithm for recommender system based on graph learning*.
 - Hosting the Innovation Project of Guangxi Graduate Education: *Rumour detection based on knowledge graph and contrastive learning*.
