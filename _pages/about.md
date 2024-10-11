@@ -59,7 +59,7 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science 
 # 💬 Serives
 - Serving as a PC or reviewer for conferences:  ICLR, NeurlPS, AISTATS, KDD, AAAI, MM, ICWSM, DASFAA, PAKDD, ACML.
 - Serving as a reviewer for journals: AI, TKDD, KAIS, WWW, Neurocomputing, KBS, TJSC, MS, and others.
-- Hosting the project of Guangxi Key Laboratory of Multi-source Information Mining and Security (2025-2026): *Research on debiased graph machine learning algorithms towards social scenarios*.
+- Hosting the Research Fund of Guangxi Key Lab of Multi-source Information Mining & Security (2025-2026): *Research on debiased graph machine learning algorithms towards social scenarios*.
 - Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province (2024-2026): *Research on causal debiasing algorithm for recommender system based on graph learning*.
 - Hosting the Innovation Project of Guangxi Graduate Education (2022-2023): *Rumour detection based on knowledge graph and contrastive learning*.
 
