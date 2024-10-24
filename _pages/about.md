@@ -36,14 +36,6 @@ Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial I
   
 - [FPGNN: Fair path graph neural network for mitigating discrimination](https://link.springer.com/article/10.1007/s11280-023-01178-8), **Guixian Zhang**, Debo Cheng, Shichao Zhang, *World Wide Web, 2023*
 
-- [A Multi-level Mesh Mutual Attention Model for Visual Question Answering](https://link.springer.com/article/10.1007/s41019-022-00200-9), 
-Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science and Engineering, 2022*
-
-- [Rumour detection on social media with long-tail strategy](https://ieeexplore.ieee.org/abstract/document/9892019), 
-**Guixian Zhang**, Rongjiao Liang, Zhongyi Yu, Shichao Zhang, *IJCNN, 2022*
-
-- [Aggregation Enhanced Graph Convolutional Network for Graph Classification](https://ieeexplore.ieee.org/abstract/document/9667673), 
-**Guixian Zhang**, Boyan Chen, Lijuan Wu, Kui Zhang, Shichao Zhang, *ICBK, 2021*
 
 - [More publications at Google Scholar!](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl)
 
@@ -58,7 +50,7 @@ Zhi Lei, **Guixian Zhang**, Lijuan Wu, Kui Zhang, Rongjiao Liang, *Data Science 
   
 # 💬 Serives
 - Serving as a PC or reviewer for conferences:  ICLR, NeurlPS, KDD, AISTATS, AAAI, CHI, MM, ICWSM, DASFAA, PAKDD, ACML.
-- Serving as a reviewer for journals: AI, TKDD, KAIS, WWW, Neurocomputing, KBS, TJSC, MS, and others.
+- Serving as a reviewer for journals: AIJ, TKDD, KAIS, WWWJ, Neurocomputing, KBS, and others.
 - Hosting the Research Fund of Guangxi Key Lab of Multi-source Information Mining & Security (2025-2026): *Research on debiased graph machine learning algorithms towards social scenarios*.
 - Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province (2024-2026): *Research on causal debiasing algorithm for recommender system based on graph learning*.
 - Hosting the Innovation Project of Guangxi Graduate Education (2022-2023): *Rumour detection based on knowledge graph and contrastive learning*.
