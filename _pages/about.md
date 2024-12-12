@@ -49,7 +49,7 @@ Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial I
 - *2021* Merit Student of GXNU.
   
 # 💬 Serives
-- Serving as a PC or reviewer for conferences:  ICLR, NeurlPS, KDD, WWW, AISTATS, AAAI, CHI, MM, ICWSM, DASFAA, PAKDD, ACML.
+- Serving as a PC or reviewer for conferences:  ICLR, ICML, NeurlPS, KDD, WWW, AISTATS, AAAI, CHI, MM, ICWSM, DASFAA, PAKDD, ACML.
 - Serving as a reviewer for journals: AIJ, TKDD, KAIS, WWWJ, Neurocomputing, KBS, and others.
 - Hosting the Research Fund of Guangxi Key Lab of Multi-source Information Mining & Security (2025-2026): *Research on debiased graph machine learning algorithms towards social scenarios*.
 - Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province (2024-2026): *Research on causal debiasing algorithm for recommender system based on graph learning*.
